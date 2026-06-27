@@ -53,5 +53,11 @@ plt.show()
 
 ### Results
 
-![Trending Top Skills for Data Analysts in the US]
-(Projects\Project2\images\skill_trend.png)
+![Trending Top Skills for Data Analysts in the US](Projects\Project2\skill_trend.png)
+
+
+### Insighs
+
+- SQL remains the most consistently demanded skill throughout the year, although it shows a gradual decrease in demand.
+- Excel experienced a significant increase in demand starting around September, surpassing both Python and Tableau by the end of the year. 
+Both Python and Tableau show relatively stable demand throughout the year with some flunctuations but remain essential skills for data analysts. Power BI, while less demanded compared to the others, shows a slight upward trend towards the year's end.
